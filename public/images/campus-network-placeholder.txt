@@ -1,0 +1,15 @@
+Kampüs Ağı Fotoğrafı Placeholder
+
+Bu dosyayı silin ve kendi kampüs ağı fotoğrafınızı buraya ekleyin.
+
+Önerilen dosya adı: campus-network.jpg veya campus-network.png
+Önerilen boyut: 800x600 piksel veya daha büyük
+Önerilen format: JPG, PNG veya WebP
+
+Fotoğraf önerileri:
+- Kampüs genelinde ağ altyapısı
+- Wi-Fi antenleri ve kablolama
+- 5G kurulum alanları
+- Veri merkezi veya sunucu odası
+- IoT sensörler ve ağ cihazları
+- Modern kampüs binaları ve teknoloji altyapısı

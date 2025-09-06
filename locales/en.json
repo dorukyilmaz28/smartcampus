@@ -1,0 +1,280 @@
+{
+  "nav": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "collaboration": "Collaboration",
+    "contact": "Contact",
+    "getQuote": "Get Quote"
+  },
+  "hero": {
+    "title": "Future Smart Campus",
+    "subtitle": "",
+    "description": "In the digital transformation era, campuses are no longer just spaces; they are living, learning, and continuously evolving smart ecosystems.\n\nWe are building tomorrow's campuses today.\n\nHigh-speed infrastructure with Wi-Fi 7 support, smart buildings equipped with IoT, AI and 5G technologies; smart screen and classroom solutions that redefine collaboration; zero-carbon approach powered by sustainable energy…\n\nBy bringing all these components together, we design efficient, secure, eco-friendly and inspiring campuses for your organization.",
+    "features": {
+      "smartBuildings": {
+        "title": "Smart Buildings",
+        "description": "IoT, AI and 5G powered"
+      },
+      "digitalCollaboration": {
+        "title": "Smart Office and Classrooms",
+        "description": "Smart displays and digital classroom"
+      },
+      "zeroCarbon": {
+        "title": "Zero Carbon",
+        "description": "Sustainable, manageable energy"
+      }
+    },
+    "cta": {
+      "primary": "Get Free Quote",
+      "secondary": "Explore Our Solutions"
+    }
+  },
+  "solutions": {
+    "title": "Intelligent Campus Solutions",
+    "description": "We provide comprehensive technology solutions for sustainable and efficient campus transformation aligned with the 2030 vision.",
+    "items": {
+      "digitalPlatform": {
+        "title": "Digital Platform",
+        "description": "Control all campus operations from a single point with centralized management and analytics platform.",
+        "features": ["Real-time monitoring", "Smart analytics", "Centralized management", "API integration"]
+      },
+      "iotSensing": {
+        "title": "Wireless Smart Campus Network",
+        "description": "Provide comprehensive network infrastructure with high-speed network installation across the campus.",
+        "features": ["Wi-Fi 7", "Private 5G installation", "IoT campus network", "Data storage solutions"]
+      },
+      "smartBuildings": {
+        "title": "Smart Buildings",
+        "description": "Achieve energy efficiency and comfort optimization with building management systems.",
+        "features": ["HVAC control", "Lighting management", "Access control", "Maintenance optimization"]
+      },
+      "resilience": {
+        "title": "Cybersecurity",
+        "description": "Protect your campus with cybersecurity and disaster management systems.",
+        "features": ["Security cameras", "Emergency systems", "Access control", "Monitoring center"]
+      },
+      "zeroCarbon": {
+        "title": "Zero Carbon",
+        "description": "Achieve your eco-friendly campus goals with sustainable energy solutions.",
+        "features": ["Solar panels", "Energy storage", "Smart grid management", "Carbon tracking"]
+      },
+      "smartCollaboration": {
+        "title": "Smart Office and Classrooms",
+        "description": "Enhance team collaboration and productivity with smart office ecosystem tools.",
+        "features": ["Video conferencing", "Digital meeting room", "Digital smart classroom", "Smart health (telemedicine)", "Video wall center"]
+      }
+    },
+    "whyUs": {
+      "title": "Why Smart Campus?",
+      "description": "Prepare your campus for the future with our expert team and proven technology solutions.",
+      "features": ["15+ years experience", "500+ successful projects", "24/7 technical support", "Certified experts"],
+      "cta": "Get Quote"
+    }
+  },
+  "collaboration": {
+    "title": "Smart Office Solutions",
+    "description": "Bring your teams together with modern collaboration technologies. Increase productivity with smart displays, video conferencing, and digital tools.",
+    "platform": {
+      "title": "Comprehensive Collaboration Platform",
+      "description": "Modern collaboration experience with Huawei Enterprise Collaboration solutions. Bring your teams together from anywhere with smart displays, video conferencing systems, and integrated platform."
+    },
+    "features": {
+      "smartScreens": {
+        "title": "Smart Displays",
+        "description": "Interactive presentations and collaboration with 4K resolution, touch-enabled smart displays.",
+        "benefits": ["55\" - 86\" size options", "Touch interface", "4K Ultra HD", "Wireless connection"]
+      },
+      "videoConference": {
+        "title": "Video Conferencing",
+        "description": "Facilitate remote collaboration with high-quality video conferencing systems.",
+        "benefits": ["4K video quality", "AI-powered audio", "Auto focus", "Multi-screen support"]
+      },
+      "meetingRooms": {
+        "title": "Meeting Rooms",
+        "description": "Efficient and interactive meeting experience with smart meeting rooms.",
+        "benefits": ["Smart booking", "Auto setup", "Sound isolation", "Eco-friendly design"]
+      },
+      "fileSharing": {
+        "title": "File Sharing",
+        "description": "Support team collaboration with secure and fast file sharing.",
+        "benefits": ["Cloud integration", "Secure sharing", "Version control", "Mobile access"]
+      }
+    },
+    "useCases": {
+      "title": "Use Cases",
+      "description": "Our smart collaboration solutions find wide application in different sectors.",
+      "education": {
+        "title": "Education & Training",
+        "description": "Virtual classrooms and hybrid education models"
+      },
+      "corporate": {
+        "title": "Corporate Meetings",
+        "description": "Executive meetings and strategy sessions"
+      },
+      "research": {
+        "title": "Research & Development",
+        "description": "Remote collaboration and project management"
+      },
+      "events": {
+        "title": "Event Management",
+        "description": "Virtual conferences and seminars"
+      }
+    },
+    "cta": {
+      "title": "Discover Your Collaboration Solutions",
+      "description": "Consult with our expert team and get customized solution recommendations for your needs.",
+      "button": "Request Demo"
+    }
+  },
+  "caseStudies": {
+    "title": "Success Stories",
+    "description": "Transformation projects we have implemented in line with the Intelligent Campus 2030 vision and the results we have achieved.",
+    "cases": {
+      "university": {
+        "title": "Technology University - Digital Transformation",
+        "location": "Istanbul, Turkey",
+        "year": "2023",
+        "description": "Comprehensive smart campus transformation at a university with 15,000 students. Integration of IoT sensors, smart building management, and digital collaboration platform.",
+        "results": {
+          "energy": "35% Energy Savings",
+          "sensors": "500+ IoT Sensors",
+          "satisfaction": "90% Student Satisfaction",
+          "monitoring": "24/7 Smart Monitoring"
+        },
+        "technologies": ["IoT Platform", "Smart Buildings", "Digital Collaboration", "Energy Management"]
+      },
+      "corporate": {
+        "title": "Corporate Center - Smart Office",
+        "location": "Ankara, Turkey",
+        "year": "2023",
+        "description": "Smart collaboration solutions at a corporate center with 5,000 employees. Video conferencing systems, smart meeting rooms, and hybrid workspace.",
+        "results": {
+          "efficiency": "50% Meeting Efficiency",
+          "screens": "200+ Smart Displays",
+          "remote": "80% Remote Work",
+          "uptime": "100% System Uptime"
+        },
+        "technologies": ["Video Conferencing", "Smart Displays", "Meeting Rooms", "Cloud Platform"]
+      },
+      "sustainable": {
+        "title": "Sustainable Campus - Zero Carbon",
+        "location": "Izmir, Turkey",
+        "year": "2024",
+        "description": "Eco-friendly campus project. Achieving sustainable campus goals with solar energy, smart energy management, and carbon tracking system.",
+        "results": {
+          "carbon": "60% Carbon Reduction",
+          "solar": "2MW Solar Energy",
+          "water": "40% Water Savings",
+          "certification": "LEED Platinum Certification"
+        },
+        "technologies": ["Solar Panels", "Energy Storage", "Smart Grid Management", "Carbon Tracking"]
+      }
+    },
+    "insights": {
+      "title": "Intelligent Campus 2030 Vision",
+      "description": "Insights from Huawei Intelligent Campus 2030 report and our strategic approach for future campus transformation.",
+      "vision": {
+        "title": "2030 Vision",
+        "description": "According to the Intelligent Campus 2030 report, future campuses will be fully digitalized, sustainable, and intelligent."
+      },
+      "digital": {
+        "title": "Digital Transformation",
+        "description": "80% of campuses will be equipped with smart technologies by 2030, and digital collaboration will become standard."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "With zero carbon goals, campuses will transition to eco-friendly energy solutions."
+      },
+      "human": {
+        "title": "Human-Centered",
+        "description": "Technology will be used to enhance student and employee experience, with human-centered design as priority."
+      }
+    },
+    "cta": {
+      "title": "Make It Your Project",
+      "description": "Consult with our expert team to transform your campus according to the 2030 vision and get customized solution recommendations.",
+      "button": "Get Project Consultation"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Consult with our expert team for smart campus transformation. Get free consultation and customized solution recommendations.",
+    "form": {
+      "title": "Quote Request Form",
+      "description": "Share details about your project, let us prepare customized solution recommendations for you.",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email",
+        "company": "Organization/Company",
+        "service": "Service of Interest",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "Your first and last name",
+        "email": "example@email.com",
+        "company": "Your organization or company name",
+        "service": "Select a service",
+        "message": "Share details about your project..."
+      },
+      "services": [
+        "Smart Campus Consulting",
+        "Digital Collaboration Solutions",
+        "IoT and Sensor Systems",
+        "Smart Building Management",
+        "Energy Management and Sustainability",
+        "Security and Access Control",
+        "Project Management and Integration"
+      ],
+      "submit": "Request Quote",
+      "submitting": "Sending...",
+      "success": {
+        "title": "Thank You!",
+        "message": "Your request has been received successfully. We will contact you as soon as possible."
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "title": "Address",
+        "value": "Maslak District, Büyükdere Street\nNo: 123, Sarıyer/Istanbul"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+90 (212) 555 0123\n+90 (212) 555 0124"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@smartcampus.com\nprojects@smartcampus.com"
+      },
+      "hours": {
+        "title": "Working Hours",
+        "value": "Monday - Friday: 09:00 - 18:00\nSaturday: 09:00 - 14:00"
+      }
+    },
+    "quick": {
+      "title": "Quick Contact",
+      "description": "You can use our direct communication channels for emergencies.",
+      "call": {
+        "title": "Call Now",
+        "number": "+90 (212) 555 0123"
+      },
+      "email": {
+        "title": "Send Email",
+        "address": "info@smartcampus.com"
+      },
+      "appointment": {
+        "title": "Book Appointment",
+        "description": "Online appointment system"
+      }
+    }
+  },
+  "footer": {
+    "description": "Expert consulting and integration partner in future smart campus solutions. Digital transformation, smart collaboration, and zero-carbon campus applications.",
+    "solutions": "Solutions",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "© 2024 Future Smart Campus Solutions. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  }
+}

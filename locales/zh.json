@@ -1,0 +1,280 @@
+{
+  "nav": {
+    "home": "首页",
+    "solutions": "解决方案",
+    "collaboration": "协作",
+    "contact": "联系我们",
+    "getQuote": "获取报价"
+  },
+  "hero": {
+    "title": "未来智慧校园",
+    "subtitle": "",
+    "description": "在数字化转型时代，校园不再仅仅是空间；它们是活着的、学习的、不断发展的智能生态系统。\n\n我们正在今天建设明天的校园。\n\n支持Wi-Fi 7的高速基础设施，配备物联网、AI和5G技术的智能建筑；重新定义协作的智能屏幕和课堂解决方案；由可持续能源驱动的零碳方法…\n\n通过将这些组件结合在一起，我们为您的组织设计高效、安全、环保和鼓舞人心的校园。",
+    "features": {
+      "smartBuildings": {
+        "title": "智能建筑",
+        "description": "物联网、AI和5G驱动"
+      },
+      "digitalCollaboration": {
+        "title": "智能办公室和教室",
+        "description": "智能显示屏和数字教室"
+      },
+      "zeroCarbon": {
+        "title": "零碳",
+        "description": "可持续、可管理的能源"
+      }
+    },
+    "cta": {
+      "primary": "获取免费报价",
+      "secondary": "探索我们的解决方案"
+    }
+  },
+  "solutions": {
+    "title": "智慧校园解决方案",
+    "description": "我们提供符合2030愿景的全面技术解决方案，实现可持续和高效的校园转型。",
+    "items": {
+      "digitalPlatform": {
+        "title": "数字平台",
+        "description": "通过集中管理和分析平台，从单点控制所有校园运营。",
+        "features": ["实时监控", "智能分析", "集中管理", "API集成"]
+      },
+      "iotSensing": {
+        "title": "无线智能校园网络",
+        "description": "通过校园范围内的高速网络安装提供全面的网络基础设施。",
+        "features": ["Wi-Fi 7", "私有5G安装", "物联网校园网络", "数据存储解决方案"]
+      },
+      "smartBuildings": {
+        "title": "智能建筑",
+        "description": "通过建筑管理系统实现能源效率和舒适度优化。",
+        "features": ["HVAC控制", "照明管理", "访问控制", "维护优化"]
+      },
+      "resilience": {
+        "title": "网络安全",
+        "description": "通过网络安全和灾害管理系统保护您的校园。",
+        "features": ["安全摄像头", "应急系统", "访问控制", "监控中心"]
+      },
+      "zeroCarbon": {
+        "title": "零碳",
+        "description": "通过可持续能源解决方案实现您的环保校园目标。",
+        "features": ["太阳能板", "能源存储", "智能电网管理", "碳追踪"]
+      },
+      "smartCollaboration": {
+        "title": "智能办公室和教室",
+        "description": "通过智能办公室生态系统工具增强团队协作和生产力。",
+        "features": ["视频会议解决方案", "数字会议室解决方案", "数字智能教室解决方案", "智能健康解决方案 (远程医疗)", "视频墙中心解决方案"]
+      }
+    },
+    "whyUs": {
+      "title": "为什么选择智慧校园？",
+      "description": "通过我们的专家团队和经过验证的技术解决方案，为您的校园未来做好准备。",
+      "features": ["15年以上经验", "500多个成功项目", "7×24技术支持", "认证专家"],
+      "cta": "获取报价"
+    }
+  },
+  "collaboration": {
+    "title": "智能办公室解决方案",
+    "description": "通过现代协作技术将您的团队聚集在一起。通过智能显示屏、视频会议和数字工具提高生产力。",
+    "platform": {
+      "title": "综合协作平台",
+      "description": "华为企业协作解决方案提供现代协作体验。通过智能显示屏、视频会议系统和集成平台，让您的团队从任何地方聚集在一起。"
+    },
+    "features": {
+      "smartScreens": {
+        "title": "智能显示屏",
+        "description": "通过4K分辨率、触控智能显示屏实现交互式演示和协作。",
+        "benefits": ["55\" - 86\"尺寸选择", "触控界面", "4K超高清", "无线连接"]
+      },
+      "videoConference": {
+        "title": "视频会议",
+        "description": "通过高质量视频会议系统促进远程协作。",
+        "benefits": ["4K视频质量", "AI音频", "自动对焦", "多屏支持"]
+      },
+      "meetingRooms": {
+        "title": "会议室",
+        "description": "通过智能会议室提供高效和交互式的会议体验。",
+        "benefits": ["智能预订", "自动设置", "隔音", "环保设计"]
+      },
+      "fileSharing": {
+        "title": "文件共享",
+        "description": "通过安全快速的文件共享支持团队协作。",
+        "benefits": ["云集成", "安全共享", "版本控制", "移动访问"]
+      }
+    },
+    "useCases": {
+      "title": "应用场景",
+      "description": "我们的智能协作解决方案在不同行业有广泛的应用。",
+      "education": {
+        "title": "教育培训",
+        "description": "虚拟教室和混合教育模式"
+      },
+      "corporate": {
+        "title": "企业会议",
+        "description": "高管会议和战略会议"
+      },
+      "research": {
+        "title": "研发",
+        "description": "远程协作和项目管理"
+      },
+      "events": {
+        "title": "活动管理",
+        "description": "虚拟会议和研讨会"
+      }
+    },
+    "cta": {
+      "title": "发现您的协作解决方案",
+      "description": "与我们的专家团队咨询，获得针对您需求的定制解决方案建议。",
+      "button": "申请演示"
+    }
+  },
+  "caseStudies": {
+    "title": "成功案例",
+    "description": "我们根据智慧校园2030愿景实施的转型项目以及取得的成果。",
+    "cases": {
+      "university": {
+        "title": "科技大学 - 数字化转型",
+        "location": "土耳其伊斯坦布尔",
+        "year": "2023",
+        "description": "在拥有15,000名学生的大学进行全面的智慧校园转型。集成物联网传感器、智能建筑管理和数字协作平台。",
+        "results": {
+          "energy": "35%节能",
+          "sensors": "500+物联网传感器",
+          "satisfaction": "90%学生满意度",
+          "monitoring": "24/7智能监控"
+        },
+        "technologies": ["物联网平台", "智能建筑", "数字协作", "能源管理"]
+      },
+      "corporate": {
+        "title": "企业中心 - 智能办公室",
+        "location": "土耳其安卡拉",
+        "year": "2023",
+        "description": "在拥有5,000名员工的企业中心实施智能协作解决方案。视频会议系统、智能会议室和混合工作空间。",
+        "results": {
+          "efficiency": "50%会议效率",
+          "screens": "200+智能显示屏",
+          "remote": "80%远程工作",
+          "uptime": "100%系统正常运行时间"
+        },
+        "technologies": ["视频会议", "智能显示屏", "会议室", "云平台"]
+      },
+      "sustainable": {
+        "title": "可持续校园 - 零碳",
+        "location": "土耳其伊兹密尔",
+        "year": "2024",
+        "description": "环保校园项目。通过太阳能、智能能源管理和碳追踪系统实现可持续校园目标。",
+        "results": {
+          "carbon": "60%碳减排",
+          "solar": "2MW太阳能",
+          "water": "40%节水",
+          "certification": "LEED铂金认证"
+        },
+        "technologies": ["太阳能板", "能源存储", "智能电网管理", "碳追踪"]
+      }
+    },
+    "insights": {
+      "title": "智慧校园2030愿景",
+      "description": "来自华为智慧校园2030报告的洞察以及我们对未来校园转型的战略方法。",
+      "vision": {
+        "title": "2030愿景",
+        "description": "根据智慧校园2030报告，未来的校园将完全数字化、可持续和智能化。"
+      },
+      "digital": {
+        "title": "数字化转型",
+        "description": "到2030年，80%的校园将配备智能技术，数字协作将成为标准。"
+      },
+      "sustainability": {
+        "title": "可持续性",
+        "description": "通过零碳目标，校园将转向环保能源解决方案。"
+      },
+      "human": {
+        "title": "以人为本",
+        "description": "技术将用于增强学生和员工体验，以人为本的设计将成为优先考虑。"
+      }
+    },
+    "cta": {
+      "title": "让它成为您的项目",
+      "description": "与我们的专家团队咨询，根据2030愿景改造您的校园，获得定制解决方案建议。",
+      "button": "获取项目咨询"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "description": "为智慧校园转型咨询我们的专家团队。获得免费咨询和定制解决方案建议。",
+    "form": {
+      "title": "报价申请表",
+      "description": "分享您项目的详细信息，让我们为您准备定制解决方案建议。",
+      "fields": {
+        "name": "姓名",
+        "email": "电子邮件",
+        "company": "机构/公司",
+        "service": "感兴趣的服务",
+        "message": "消息"
+      },
+      "placeholders": {
+        "name": "您的姓名",
+        "email": "example@email.com",
+        "company": "您的机构或公司名称",
+        "service": "选择服务",
+        "message": "分享您项目的详细信息..."
+      },
+      "services": [
+        "智慧校园咨询",
+        "数字协作解决方案",
+        "物联网和传感器系统",
+        "智能建筑管理",
+        "能源管理和可持续性",
+        "安全和访问控制",
+        "项目管理和集成"
+      ],
+      "submit": "申请报价",
+      "submitting": "发送中...",
+      "success": {
+        "title": "谢谢！",
+        "message": "您的请求已成功收到。我们将尽快与您联系。"
+      }
+    },
+    "info": {
+      "title": "联系信息",
+      "address": {
+        "title": "地址",
+        "value": "马斯拉克区，大德雷街\n123号，萨里耶尔/伊斯坦布尔"
+      },
+      "phone": {
+        "title": "电话",
+        "value": "+90 (212) 555 0123\n+90 (212) 555 0124"
+      },
+      "email": {
+        "title": "电子邮件",
+        "value": "info@smartcampus.com\nprojects@smartcampus.com"
+      },
+      "hours": {
+        "title": "工作时间",
+        "value": "周一至周五：09:00 - 18:00\n周六：09:00 - 14:00"
+      }
+    },
+    "quick": {
+      "title": "快速联系",
+      "description": "您可以使用我们的直接沟通渠道处理紧急情况。",
+      "call": {
+        "title": "立即致电",
+        "number": "+90 (212) 555 0123"
+      },
+      "email": {
+        "title": "发送邮件",
+        "address": "info@smartcampus.com"
+      },
+      "appointment": {
+        "title": "预约",
+        "description": "在线预约系统"
+      }
+    }
+  },
+  "footer": {
+    "description": "未来智慧校园解决方案的专家咨询和集成合作伙伴。数字化转型、智能协作和零碳校园应用。",
+    "solutions": "解决方案",
+    "services": "服务",
+    "contact": "联系我们",
+    "copyright": "© 2024 未来智慧校园解决方案。保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "使用条款"
+  }
+}
