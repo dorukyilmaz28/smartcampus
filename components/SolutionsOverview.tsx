@@ -170,7 +170,7 @@ export default function SolutionsOverview() {
               </p>
               
               <div className="space-y-4">
-                {Array.isArray(t('solutions.whyUs.features')) ? t('solutions.whyUs.features').map((feature, index) => (
+                {Array.isArray(t('solutions.whyUs.features')) ? t('solutions.whyUs.features').map((feature: string, index: number) => (
                   <div key={index} className="flex items-center">
                     <div className="w-6 h-6 bg-white/20 rounded-full flex items-center justify-center mr-3">
                       <CheckCircle className="h-4 w-4 text-white" />
