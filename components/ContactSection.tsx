@@ -148,7 +148,7 @@ export default function ContactSection() {
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
                   >
                     <option value="">{t('contact.form.placeholders.service')}</option>
-                    {Array.isArray(t('contact.form.services')) ? t('contact.form.services').map((service, index) => (
+                    {Array.isArray(t('contact.form.services')) ? t('contact.form.services').map((service: string, index: number) => (
                       <option key={index} value={service}>
                         {service}
                       </option>
