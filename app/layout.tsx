@@ -2,13 +2,13 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Future Smart Campus Solutions | Intelligent Campus Consulting & Integration',
-  description: 'Leading consultancy and integration partner for Future Smart Campus solutions. Digital transformation, smart collaboration, and zero-carbon campus implementations.',
-  keywords: 'future smart campus, intelligent campus, digital transformation, smart collaboration, IoT sensing, 5G, zero-carbon campus, enterprise solutions',
-  authors: [{ name: 'Future Smart Campus Solutions' }],
+  title: 'Smart Campus 5G | Intelligent Campus Consulting & Integration',
+  description: 'Leading consultancy and integration partner for Smart Campus 5G solutions. Digital transformation, smart collaboration, and zero-carbon campus implementations.',
+  keywords: 'smart campus 5G, intelligent campus, digital transformation, smart collaboration, IoT sensing, 5G, zero-carbon campus, enterprise solutions',
+  authors: [{ name: 'Smart Campus 5G' }],
   openGraph: {
-    title: 'Future Smart Campus Solutions | Intelligent Campus Consulting',
-    description: 'Leading consultancy and integration partner for Future Smart Campus solutions.',
+    title: 'Smart Campus 5G | Intelligent Campus Consulting',
+    description: 'Leading consultancy and integration partner for Smart Campus 5G solutions.',
     type: 'website',
     locale: 'en_US',
   },

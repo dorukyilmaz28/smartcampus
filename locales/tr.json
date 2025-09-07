@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "Ana Sayfa",
-    "solutions": "Çözümler",
-    "collaboration": "İş Birliği",
+    "solutions": "Akıllı Kampüs",
+    "collaboration": "Akıllı Sınıf ve Ofis",
     "contact": "İletişim",
     "getQuote": "Teklif Al"
   },
@@ -65,15 +65,19 @@
       }
     },
     "whyUs": {
-      "title": "Neden Smart Campus?",
-      "description": "Uzman ekibimiz ve kanıtlanmış teknoloji çözümlerimizle kampüsünüzü geleceğe hazırlayın.",
-      "features": ["15+ yıl deneyim", "500+ başarılı proje", "7/24 teknik destek", "Sertifikalı uzmanlar"],
-      "cta": "Teklif Al"
+      "title": "Neden Smart Campus 5G?",
+      "description": "Çünkü güçlü altyapı, güvenilir teknoloji ve uzman ekip desteğiyle kampüsünüzü geleceğin standartlarına bugünden taşıyoruz.",
+      "features": [],
+      "cta": "Teklif Al",
+      "getStarted": {
+        "title": "Hemen Başlayın",
+        "description": "Ücretsiz danışmanlık ve proje değerlendirmesi için bizimle iletişime geçin."
+      }
     }
   },
   "collaboration": {
-    "title": "Akıllı Ofis Çözümleri",
-    "description": "Modern iş birliği teknolojileri ile ekiplerinizi bir araya getirin. Akıllı ekranlar, video konferans ve dijital araçlarla verimliliği artırın.",
+    "title": "Akıllı Sınıf ve Ofis Çözümlerimiz",
+    "description": "Modern eğitim ve iş dünyasının ihtiyaçlarına özel tasarlanmış, etkileşimli ve verimli çözümlerle geleceğin öğrenme ve çalışma deneyimini bugünden yaşayın.",
     "platform": {
       "title": "Kapsamlı İş Birliği Platformu",
       "description": "Huawei Enterprise Collaboration çözümleri ile modern iş birliği deneyimi. Akıllı ekranlar, video konferans sistemleri ve entegre platform ile ekiplerinizi her yerden bir araya getirin."
@@ -98,6 +102,32 @@
         "title": "Dosya Paylaşımı",
         "description": "Güvenli ve hızlı dosya paylaşımı ile ekip çalışmasını destekleyin.",
         "benefits": ["Bulut entegrasyonu", "Güvenli paylaşım", "Versiyon kontrolü", "Mobil erişim"]
+      }
+    },
+    "solutions": {
+      "videoConferencing": {
+        "title": "Video Conferencing",
+        "description": "Executive Video Conferencing Solution\nEnterprise Collaborative Office Meeting Solution"
+      },
+      "visualDispatchCenter": {
+        "title": "Visual Dispatch Center", 
+        "description": "Visual Dispatch Center Solution"
+      },
+      "remoteCollaboration": {
+        "title": "Remote Collaboration",
+        "description": "Telemedicine Solution"
+      },
+      "smartOffice": {
+        "title": "Smart Office",
+        "description": "Digital Meeting Room Solution"
+      },
+      "smartClassroom": {
+        "title": "Smart Classroom",
+        "description": "Digital Classroom Solution"
+      },
+      "private5gNetwork": {
+        "title": "5G Private Network Solutions",
+        "description": "5G network deployment\n5G Usecase development"
       }
     },
     "useCases": {
@@ -126,79 +156,40 @@
       "button": "Demo Talep Et"
     }
   },
-  "caseStudies": {
-    "title": "Başarı Hikayeleri",
-    "description": "Intelligent Campus 2030 vizyonu doğrultusunda gerçekleştirdiğimiz dönüşüm projeleri ve elde ettiğimiz sonuçlar.",
-    "cases": {
-      "university": {
-        "title": "Teknoloji Üniversitesi - Dijital Dönüşüm",
-        "location": "İstanbul, Türkiye",
-        "year": "2023",
-        "description": "15.000 öğrencili üniversitede kapsamlı akıllı kampüs dönüşümü. IoT sensörleri, akıllı bina yönetimi ve dijital iş birliği platformu entegrasyonu.",
-        "results": {
-          "energy": "%35 Enerji Tasarrufu",
-          "sensors": "500+ IoT Sensör",
-          "satisfaction": "%90 Öğrenci Memnuniyeti",
-          "monitoring": "24/7 Akıllı İzleme"
-        },
-        "technologies": ["IoT Platform", "Akıllı Binalar", "Dijital İş Birliği", "Enerji Yönetimi"]
-      },
-      "corporate": {
-        "title": "Kurumsal Merkez - Akıllı Ofis",
-        "location": "Ankara, Türkiye",
-        "year": "2023",
-        "description": "5000 çalışanlı kurumsal merkezde akıllı ofis ekosistemi çözümleri. Görüntülü konferans sistemleri, dijital toplantı odaları ve hibrit çalışma alanları.",
-        "results": {
-          "efficiency": "%50 Toplantı Verimliliği",
-          "screens": "200+ Akıllı Ekran",
-          "remote": "%80 Uzaktan Çalışma",
-          "uptime": "100% Sistem Uptime"
-        },
-        "technologies": ["Görüntülü Konferans", "Dijital Toplantı Odaları", "Akıllı Sınıf Çözümleri", "Video Wall Center"]
-      },
-      "sustainable": {
-        "title": "Sürdürülebilir Kampüs - Sıfır Karbon",
-        "location": "İzmir, Türkiye",
-        "year": "2024",
-        "description": "Çevre dostu kampüs projesi. Güneş enerjisi, akıllı enerji yönetimi ve karbon takip sistemi ile sürdürülebilir kampüs hedeflerine ulaşma.",
-        "results": {
-          "carbon": "%60 Karbon Azaltımı",
-          "solar": "2MW Güneş Enerjisi",
-          "water": "%40 Su Tasarrufu",
-          "certification": "LEED Platinum Sertifika"
-        },
-        "technologies": ["Güneş Panelleri", "Enerji Depolama", "Akıllı Şebeke Yönetimi", "Karbon Takibi"]
-      }
-    },
-    "insights": {
-      "title": "Intelligent Campus 2030 Vizyonu",
-      "description": "Huawei Intelligent Campus 2030 raporundan alınan öngörüler ve gelecekteki kampüs dönüşümü için stratejik yaklaşımımız.",
-      "vision": {
-        "title": "2030 Vizyonu",
-        "description": "Intelligent Campus 2030 raporuna göre, gelecekteki kampüsler tamamen dijitalleşmiş, sürdürülebilir ve akıllı olacak."
-      },
-      "digital": {
-        "title": "Dijital Dönüşüm",
-        "description": "Kampüslerin %80'i 2030'a kadar akıllı teknolojilerle donatılacak ve dijital iş birliği standart hale gelecek."
-      },
-      "sustainability": {
-        "title": "Sürdürülebilirlik",
-        "description": "Sıfır karbon hedefleri ile kampüsler çevre dostu enerji çözümlerine geçiş yapacak."
-      },
-      "human": {
-        "title": "İnsan Odaklı",
-        "description": "Teknoloji, öğrenci ve çalışan deneyimini artırmak için kullanılacak, insan merkezli tasarım öncelik olacak."
-      }
-    },
-    "cta": {
-      "title": "Sizin Projeniz Olsun",
-      "description": "Kampüsünüzü 2030 vizyonuna uygun şekilde dönüştürmek için uzman ekibimizle görüşün ve özel çözüm önerileri alın.",
-      "button": "Proje Danışmanlığı Al"
-    }
-  },
   "contact": {
     "title": "Bize Ulaşın",
     "description": "Akıllı kampüs dönüşümü için uzman ekibimizle görüşün. Ücretsiz danışmanlık ve özel çözüm önerileri alın.",
+    "info": {
+      "title": "İletişim Bilgileri",
+      "address": {
+        "title": "Adres",
+        "value": "Maslak Mahallesi, Büyükdere Caddesi\nNo: 123, Sarıyer/İstanbul"
+      },
+      "phone": {
+        "title": "Telefon",
+        "value": "+90 (212) 555 0123\n+90 (212) 555 0124"
+      },
+      "email": {
+        "title": "E-posta",
+        "value": "info@smartcampus.com"
+      },
+      "hours": {
+        "title": "Çalışma Saatleri",
+        "value": "Pazartesi - Cuma: 09:00 - 18:00\nCumartesi: 09:00 - 14:00"
+      }
+    },
+    "quick": {
+      "title": "Hızlı İletişim",
+      "description": "Acil durumlar için doğrudan iletişim kanallarımızı kullanabilirsiniz.",
+      "email": {
+        "title": "E-posta Gönder",
+        "address": "info@smartcampus.com"
+      },
+      "appointment": {
+        "title": "Randevu Al",
+        "description": "Online randevu sistemi"
+      }
+    },
     "form": {
       "title": "Teklif Talep Formu",
       "description": "Projeniz hakkında detayları paylaşın, size özel çözüm önerileri hazırlayalım.",
@@ -229,42 +220,7 @@
       "submitting": "Gönderiliyor...",
       "success": {
         "title": "Teşekkürler!",
-        "message": "Talebiniz başarıyla alındı. En kısa sürede sizinle iletişime geçeceğiz."
-      }
-    },
-    "info": {
-      "title": "İletişim Bilgileri",
-      "address": {
-        "title": "Adres",
-        "value": "Maslak Mahallesi, Büyükdere Caddesi\nNo: 123, Sarıyer/İstanbul"
-      },
-      "phone": {
-        "title": "Telefon",
-        "value": "+90 (212) 555 0123\n+90 (212) 555 0124"
-      },
-      "email": {
-        "title": "E-posta",
-        "value": "info@smartcampus.com\nprojeler@smartcampus.com"
-      },
-      "hours": {
-        "title": "Çalışma Saatleri",
-        "value": "Pazartesi - Cuma: 09:00 - 18:00\nCumartesi: 09:00 - 14:00"
-      }
-    },
-    "quick": {
-      "title": "Hızlı İletişim",
-      "description": "Acil durumlar için doğrudan iletişim kanallarımızı kullanabilirsiniz.",
-      "call": {
-        "title": "Hemen Ara",
-        "number": "+90 (212) 555 0123"
-      },
-      "email": {
-        "title": "E-posta Gönder",
-        "address": "info@smartcampus.com"
-      },
-      "appointment": {
-        "title": "Randevu Al",
-        "description": "Online randevu sistemi"
+        "message": "Formunuz başarıyla gönderildi. En kısa sürede size dönüş yapacağız."
       }
     }
   },
@@ -273,8 +229,27 @@
     "solutions": "Çözümler",
     "services": "Hizmetler",
     "contact": "İletişim",
-    "copyright": "© 2024 Future Smart Campus Solutions. Tüm hakları saklıdır.",
+    "copyright": "© 2024 Smart Campus 5G. Tüm hakları saklıdır.",
     "privacy": "Gizlilik Politikası",
-    "terms": "Kullanım Şartları"
+    "terms": "Kullanım Şartları",
+    "solutionsList": [
+      "Dijital Platform",
+      "Kablosuz Akıllı Kampüs Ağı",
+      "Akıllı Binalar",
+      "Siber Güvenlik",
+      "Sıfır Karbon"
+    ],
+    "servicesList": [
+      "Danışmanlık",
+      "Sistem Entegrasyonu",
+      "Proje Yönetimi",
+      "Teknik Destek",
+      "Eğitim ve Sertifikasyon"
+    ],
+    "contactInfo": {
+      "location": "İstanbul, Türkiye",
+      "phone": "+90 (212) 555 0123",
+      "email": "info@smartcampus.com"
+    }
   }
 }

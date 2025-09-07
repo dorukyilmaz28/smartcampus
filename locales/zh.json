@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "首页",
-    "solutions": "解决方案",
-    "collaboration": "协作",
+    "solutions": "智慧校园",
+    "collaboration": "智慧教室与办公室",
     "contact": "联系我们",
     "getQuote": "获取报价"
   },
@@ -65,15 +65,19 @@
       }
     },
     "whyUs": {
-      "title": "为什么选择智慧校园？",
-      "description": "通过我们的专家团队和经过验证的技术解决方案，为您的校园未来做好准备。",
-      "features": ["15年以上经验", "500多个成功项目", "7×24技术支持", "认证专家"],
-      "cta": "获取报价"
+      "title": "为什么选择智慧校园5G？",
+      "description": "因为我们通过强大的基础设施、可靠的技术和专家团队支持，今天就将您的校园提升到明天的标准。",
+      "features": [],
+      "cta": "获取报价",
+      "getStarted": {
+        "title": "立即开始",
+        "description": "联系我们获得免费咨询和项目评估。"
+      }
     }
   },
   "collaboration": {
-    "title": "智能办公室解决方案",
-    "description": "通过现代协作技术将您的团队聚集在一起。通过智能显示屏、视频会议和数字工具提高生产力。",
+    "title": "智慧教室与办公室解决方案",
+    "description": "通过为现代教育和商业世界需求特别设计的互动高效解决方案，今天就体验未来的学习和工作。",
     "platform": {
       "title": "综合协作平台",
       "description": "华为企业协作解决方案提供现代协作体验。通过智能显示屏、视频会议系统和集成平台，让您的团队从任何地方聚集在一起。"
@@ -98,6 +102,32 @@
         "title": "文件共享",
         "description": "通过安全快速的文件共享支持团队协作。",
         "benefits": ["云集成", "安全共享", "版本控制", "移动访问"]
+      }
+    },
+    "solutions": {
+      "videoConferencing": {
+        "title": "视频会议",
+        "description": "高管视频会议解决方案\n企业协作办公会议解决方案"
+      },
+      "visualDispatchCenter": {
+        "title": "可视化调度中心", 
+        "description": "可视化调度中心解决方案"
+      },
+      "remoteCollaboration": {
+        "title": "远程协作",
+        "description": "远程医疗解决方案"
+      },
+      "smartOffice": {
+        "title": "智能办公室",
+        "description": "数字会议室解决方案"
+      },
+      "smartClassroom": {
+        "title": "智能教室",
+        "description": "数字教室解决方案"
+      },
+      "private5gNetwork": {
+        "title": "5G专用网络解决方案",
+        "description": "5G网络部署\n5G用例开发"
       }
     },
     "useCases": {
@@ -126,79 +156,40 @@
       "button": "申请演示"
     }
   },
-  "caseStudies": {
-    "title": "成功案例",
-    "description": "我们根据智慧校园2030愿景实施的转型项目以及取得的成果。",
-    "cases": {
-      "university": {
-        "title": "科技大学 - 数字化转型",
-        "location": "土耳其伊斯坦布尔",
-        "year": "2023",
-        "description": "在拥有15,000名学生的大学进行全面的智慧校园转型。集成物联网传感器、智能建筑管理和数字协作平台。",
-        "results": {
-          "energy": "35%节能",
-          "sensors": "500+物联网传感器",
-          "satisfaction": "90%学生满意度",
-          "monitoring": "24/7智能监控"
-        },
-        "technologies": ["物联网平台", "智能建筑", "数字协作", "能源管理"]
-      },
-      "corporate": {
-        "title": "企业中心 - 智能办公室",
-        "location": "土耳其安卡拉",
-        "year": "2023",
-        "description": "在拥有5,000名员工的企业中心实施智能协作解决方案。视频会议系统、智能会议室和混合工作空间。",
-        "results": {
-          "efficiency": "50%会议效率",
-          "screens": "200+智能显示屏",
-          "remote": "80%远程工作",
-          "uptime": "100%系统正常运行时间"
-        },
-        "technologies": ["视频会议", "智能显示屏", "会议室", "云平台"]
-      },
-      "sustainable": {
-        "title": "可持续校园 - 零碳",
-        "location": "土耳其伊兹密尔",
-        "year": "2024",
-        "description": "环保校园项目。通过太阳能、智能能源管理和碳追踪系统实现可持续校园目标。",
-        "results": {
-          "carbon": "60%碳减排",
-          "solar": "2MW太阳能",
-          "water": "40%节水",
-          "certification": "LEED铂金认证"
-        },
-        "technologies": ["太阳能板", "能源存储", "智能电网管理", "碳追踪"]
-      }
-    },
-    "insights": {
-      "title": "智慧校园2030愿景",
-      "description": "来自华为智慧校园2030报告的洞察以及我们对未来校园转型的战略方法。",
-      "vision": {
-        "title": "2030愿景",
-        "description": "根据智慧校园2030报告，未来的校园将完全数字化、可持续和智能化。"
-      },
-      "digital": {
-        "title": "数字化转型",
-        "description": "到2030年，80%的校园将配备智能技术，数字协作将成为标准。"
-      },
-      "sustainability": {
-        "title": "可持续性",
-        "description": "通过零碳目标，校园将转向环保能源解决方案。"
-      },
-      "human": {
-        "title": "以人为本",
-        "description": "技术将用于增强学生和员工体验，以人为本的设计将成为优先考虑。"
-      }
-    },
-    "cta": {
-      "title": "让它成为您的项目",
-      "description": "与我们的专家团队咨询，根据2030愿景改造您的校园，获得定制解决方案建议。",
-      "button": "获取项目咨询"
-    }
-  },
   "contact": {
     "title": "联系我们",
     "description": "为智慧校园转型咨询我们的专家团队。获得免费咨询和定制解决方案建议。",
+    "info": {
+      "title": "联系信息",
+      "address": {
+        "title": "地址",
+        "value": "Maslak Mahallesi, Büyükdere Caddesi\nNo: 123, Sarıyer/İstanbul"
+      },
+      "phone": {
+        "title": "电话",
+        "value": "+90 (212) 555 0123\n+90 (212) 555 0124"
+      },
+      "email": {
+        "title": "邮箱",
+        "value": "info@smartcampus.com"
+      },
+      "hours": {
+        "title": "工作时间",
+        "value": "周一 - 周五: 09:00 - 18:00\n周六: 09:00 - 14:00"
+      }
+    },
+    "quick": {
+      "title": "快速联系",
+      "description": "您可以使用我们的直接沟通渠道处理紧急情况。",
+      "email": {
+        "title": "发送邮件",
+        "address": "info@smartcampus.com"
+      },
+      "appointment": {
+        "title": "预约",
+        "description": "在线预约系统"
+      }
+    },
     "form": {
       "title": "报价申请表",
       "description": "分享您项目的详细信息，让我们为您准备定制解决方案建议。",
@@ -229,42 +220,7 @@
       "submitting": "发送中...",
       "success": {
         "title": "谢谢！",
-        "message": "您的请求已成功收到。我们将尽快与您联系。"
-      }
-    },
-    "info": {
-      "title": "联系信息",
-      "address": {
-        "title": "地址",
-        "value": "马斯拉克区，大德雷街\n123号，萨里耶尔/伊斯坦布尔"
-      },
-      "phone": {
-        "title": "电话",
-        "value": "+90 (212) 555 0123\n+90 (212) 555 0124"
-      },
-      "email": {
-        "title": "电子邮件",
-        "value": "info@smartcampus.com\nprojects@smartcampus.com"
-      },
-      "hours": {
-        "title": "工作时间",
-        "value": "周一至周五：09:00 - 18:00\n周六：09:00 - 14:00"
-      }
-    },
-    "quick": {
-      "title": "快速联系",
-      "description": "您可以使用我们的直接沟通渠道处理紧急情况。",
-      "call": {
-        "title": "立即致电",
-        "number": "+90 (212) 555 0123"
-      },
-      "email": {
-        "title": "发送邮件",
-        "address": "info@smartcampus.com"
-      },
-      "appointment": {
-        "title": "预约",
-        "description": "在线预约系统"
+        "message": "您的表单已成功提交。我们会尽快与您联系。"
       }
     }
   },
@@ -273,8 +229,27 @@
     "solutions": "解决方案",
     "services": "服务",
     "contact": "联系我们",
-    "copyright": "© 2024 未来智慧校园解决方案。保留所有权利。",
+    "copyright": "© 2024 智慧校园5G。保留所有权利。",
     "privacy": "隐私政策",
-    "terms": "使用条款"
+    "terms": "使用条款",
+    "solutionsList": [
+      "数字平台",
+      "无线智慧校园网络",
+      "智能建筑",
+      "网络安全",
+      "零碳"
+    ],
+    "servicesList": [
+      "咨询服务",
+      "系统集成",
+      "项目管理",
+      "技术支持",
+      "培训与认证"
+    ],
+    "contactInfo": {
+      "location": "土耳其伊斯坦布尔",
+      "phone": "+90 (212) 555 0123",
+      "email": "info@smartcampus.com"
+    }
   }
 }

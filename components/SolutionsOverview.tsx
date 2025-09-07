@@ -38,7 +38,7 @@ export default function SolutionsOverview() {
       description: t('solutions.items.smartBuildings.description'),
       features: t('solutions.items.smartBuildings.features'),
       color: 'green',
-      image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+      image: '/images/smart-buildings.png'
     },
     {
       icon: Shield,
@@ -46,7 +46,7 @@ export default function SolutionsOverview() {
       description: t('solutions.items.resilience.description'),
       features: t('solutions.items.resilience.features'),
       color: 'red',
-      image: 'https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+      image: '/images/cybersecurity.png'
     },
     {
       icon: Leaf,
@@ -62,7 +62,7 @@ export default function SolutionsOverview() {
       description: t('solutions.items.smartCollaboration.description'),
       features: t('solutions.items.smartCollaboration.features'),
       color: 'purple',
-      image: 'https://images.unsplash.com/photo-1587560699334-cc4ff634909a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+      image: '/images/smart-office-classrooms.png'
     }
   ]
 
@@ -121,7 +121,8 @@ export default function SolutionsOverview() {
                       src={solution.image}
                       alt={solution.title}
                       fill
-                      className="object-cover group-hover:scale-105 transition-transform duration-300"
+                      className="object-cover object-center group-hover:scale-105 transition-transform duration-300"
+                      unoptimized
                     />
                   )}
                   <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
@@ -191,10 +192,10 @@ export default function SolutionsOverview() {
             <div className="relative">
               <div className="bg-white rounded-apple-lg p-8 shadow-apple-xl">
                 <h4 className="text-xl font-semibold text-neutral-900 mb-4">
-                  Hemen Başlayın
+                  {t('solutions.whyUs.getStarted.title')}
                 </h4>
                 <p className="text-neutral-600 mb-6">
-                  Ücretsiz danışmanlık ve proje değerlendirmesi için bizimle iletişime geçin.
+                  {t('solutions.whyUs.getStarted.description')}
                 </p>
                 <a
                   href="#contact"

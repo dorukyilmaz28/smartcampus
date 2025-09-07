@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "Home",
-    "solutions": "Solutions",
-    "collaboration": "Collaboration",
+    "solutions": "Smart Campus",
+    "collaboration": "Smart Class & Office",
     "contact": "Contact",
     "getQuote": "Get Quote"
   },
@@ -65,15 +65,19 @@
       }
     },
     "whyUs": {
-      "title": "Why Smart Campus?",
-      "description": "Prepare your campus for the future with our expert team and proven technology solutions.",
-      "features": ["15+ years experience", "500+ successful projects", "24/7 technical support", "Certified experts"],
-      "cta": "Get Quote"
+      "title": "Why Smart Campus 5G?",
+      "description": "Because we move your campus to tomorrow's standards today with strong infrastructure, reliable technology and expert team support.",
+      "features": [],
+      "cta": "Get Quote",
+      "getStarted": {
+        "title": "Get Started Now",
+        "description": "Contact us for free consultation and project evaluation."
+      }
     }
   },
   "collaboration": {
-    "title": "Smart Office Solutions",
-    "description": "Bring your teams together with modern collaboration technologies. Increase productivity with smart displays, video conferencing, and digital tools.",
+    "title": "Smart Class and Office Solutions",
+    "description": "Experience the future of learning and working today with interactive and efficient solutions specially designed for the needs of the modern education and business world.",
     "platform": {
       "title": "Comprehensive Collaboration Platform",
       "description": "Modern collaboration experience with Huawei Enterprise Collaboration solutions. Bring your teams together from anywhere with smart displays, video conferencing systems, and integrated platform."
@@ -98,6 +102,32 @@
         "title": "File Sharing",
         "description": "Support team collaboration with secure and fast file sharing.",
         "benefits": ["Cloud integration", "Secure sharing", "Version control", "Mobile access"]
+      }
+    },
+    "solutions": {
+      "videoConferencing": {
+        "title": "Video Conferencing",
+        "description": "Executive Video Conferencing Solution\nEnterprise Collaborative Office Meeting Solution"
+      },
+      "visualDispatchCenter": {
+        "title": "Visual Dispatch Center", 
+        "description": "Visual Dispatch Center Solution"
+      },
+      "remoteCollaboration": {
+        "title": "Remote Collaboration",
+        "description": "Telemedicine Solution"
+      },
+      "smartOffice": {
+        "title": "Smart Office",
+        "description": "Digital Meeting Room Solution"
+      },
+      "smartClassroom": {
+        "title": "Smart Classroom",
+        "description": "Digital Classroom Solution"
+      },
+      "private5gNetwork": {
+        "title": "5G Private Network Solutions",
+        "description": "5G network deployment\n5G Usecase development"
       }
     },
     "useCases": {
@@ -126,79 +156,40 @@
       "button": "Request Demo"
     }
   },
-  "caseStudies": {
-    "title": "Success Stories",
-    "description": "Transformation projects we have implemented in line with the Intelligent Campus 2030 vision and the results we have achieved.",
-    "cases": {
-      "university": {
-        "title": "Technology University - Digital Transformation",
-        "location": "Istanbul, Turkey",
-        "year": "2023",
-        "description": "Comprehensive smart campus transformation at a university with 15,000 students. Integration of IoT sensors, smart building management, and digital collaboration platform.",
-        "results": {
-          "energy": "35% Energy Savings",
-          "sensors": "500+ IoT Sensors",
-          "satisfaction": "90% Student Satisfaction",
-          "monitoring": "24/7 Smart Monitoring"
-        },
-        "technologies": ["IoT Platform", "Smart Buildings", "Digital Collaboration", "Energy Management"]
-      },
-      "corporate": {
-        "title": "Corporate Center - Smart Office",
-        "location": "Ankara, Turkey",
-        "year": "2023",
-        "description": "Smart collaboration solutions at a corporate center with 5,000 employees. Video conferencing systems, smart meeting rooms, and hybrid workspace.",
-        "results": {
-          "efficiency": "50% Meeting Efficiency",
-          "screens": "200+ Smart Displays",
-          "remote": "80% Remote Work",
-          "uptime": "100% System Uptime"
-        },
-        "technologies": ["Video Conferencing", "Smart Displays", "Meeting Rooms", "Cloud Platform"]
-      },
-      "sustainable": {
-        "title": "Sustainable Campus - Zero Carbon",
-        "location": "Izmir, Turkey",
-        "year": "2024",
-        "description": "Eco-friendly campus project. Achieving sustainable campus goals with solar energy, smart energy management, and carbon tracking system.",
-        "results": {
-          "carbon": "60% Carbon Reduction",
-          "solar": "2MW Solar Energy",
-          "water": "40% Water Savings",
-          "certification": "LEED Platinum Certification"
-        },
-        "technologies": ["Solar Panels", "Energy Storage", "Smart Grid Management", "Carbon Tracking"]
-      }
-    },
-    "insights": {
-      "title": "Intelligent Campus 2030 Vision",
-      "description": "Insights from Huawei Intelligent Campus 2030 report and our strategic approach for future campus transformation.",
-      "vision": {
-        "title": "2030 Vision",
-        "description": "According to the Intelligent Campus 2030 report, future campuses will be fully digitalized, sustainable, and intelligent."
-      },
-      "digital": {
-        "title": "Digital Transformation",
-        "description": "80% of campuses will be equipped with smart technologies by 2030, and digital collaboration will become standard."
-      },
-      "sustainability": {
-        "title": "Sustainability",
-        "description": "With zero carbon goals, campuses will transition to eco-friendly energy solutions."
-      },
-      "human": {
-        "title": "Human-Centered",
-        "description": "Technology will be used to enhance student and employee experience, with human-centered design as priority."
-      }
-    },
-    "cta": {
-      "title": "Make It Your Project",
-      "description": "Consult with our expert team to transform your campus according to the 2030 vision and get customized solution recommendations.",
-      "button": "Get Project Consultation"
-    }
-  },
   "contact": {
     "title": "Contact Us",
     "description": "Consult with our expert team for smart campus transformation. Get free consultation and customized solution recommendations.",
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "title": "Address",
+        "value": "Maslak Mahallesi, Büyükdere Caddesi\nNo: 123, Sarıyer/İstanbul"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+90 (212) 555 0123\n+90 (212) 555 0124"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@smartcampus.com"
+      },
+      "hours": {
+        "title": "Working Hours",
+        "value": "Monday - Friday: 09:00 - 18:00\nSaturday: 09:00 - 14:00"
+      }
+    },
+    "quick": {
+      "title": "Quick Contact",
+      "description": "You can use our direct communication channels for urgent situations.",
+      "email": {
+        "title": "Send Email",
+        "address": "info@smartcampus.com"
+      },
+      "appointment": {
+        "title": "Make Appointment",
+        "description": "Online appointment system"
+      }
+    },
     "form": {
       "title": "Quote Request Form",
       "description": "Share details about your project, let us prepare customized solution recommendations for you.",
@@ -229,42 +220,7 @@
       "submitting": "Sending...",
       "success": {
         "title": "Thank You!",
-        "message": "Your request has been received successfully. We will contact you as soon as possible."
-      }
-    },
-    "info": {
-      "title": "Contact Information",
-      "address": {
-        "title": "Address",
-        "value": "Maslak District, Büyükdere Street\nNo: 123, Sarıyer/Istanbul"
-      },
-      "phone": {
-        "title": "Phone",
-        "value": "+90 (212) 555 0123\n+90 (212) 555 0124"
-      },
-      "email": {
-        "title": "Email",
-        "value": "info@smartcampus.com\nprojects@smartcampus.com"
-      },
-      "hours": {
-        "title": "Working Hours",
-        "value": "Monday - Friday: 09:00 - 18:00\nSaturday: 09:00 - 14:00"
-      }
-    },
-    "quick": {
-      "title": "Quick Contact",
-      "description": "You can use our direct communication channels for emergencies.",
-      "call": {
-        "title": "Call Now",
-        "number": "+90 (212) 555 0123"
-      },
-      "email": {
-        "title": "Send Email",
-        "address": "info@smartcampus.com"
-      },
-      "appointment": {
-        "title": "Book Appointment",
-        "description": "Online appointment system"
+        "message": "Your form has been submitted successfully. We will get back to you soon."
       }
     }
   },
@@ -273,8 +229,27 @@
     "solutions": "Solutions",
     "services": "Services",
     "contact": "Contact",
-    "copyright": "© 2024 Future Smart Campus Solutions. All rights reserved.",
+    "copyright": "© 2024 Smart Campus 5G. All rights reserved.",
     "privacy": "Privacy Policy",
-    "terms": "Terms of Use"
+    "terms": "Terms of Use",
+    "solutionsList": [
+      "Digital Platform",
+      "Wireless Smart Campus Network",
+      "Smart Buildings",
+      "Cybersecurity",
+      "Zero Carbon"
+    ],
+    "servicesList": [
+      "Consultancy",
+      "System Integration",
+      "Project Management",
+      "Technical Support",
+      "Training and Certification"
+    ],
+    "contactInfo": {
+      "location": "Istanbul, Turkey",
+      "phone": "+90 (212) 555 0123",
+      "email": "info@smartcampus.com"
+    }
   }
 }

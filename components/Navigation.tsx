@@ -21,17 +21,17 @@ export default function Navigation() {
   return (
     <nav className="bg-white/80 backdrop-blur-xl sticky top-0 z-50 border-b border-neutral-200/50">
       <div className="container-max">
-        <div className="flex justify-between items-center h-16 px-4">
+        <div className="flex justify-between items-center h-20 px-4">
           {/* Logo */}
-          <Logo variant="full" size="md" />
+          <Logo variant="full" size="sm" />
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex space-x-2">
+          <div className="hidden md:flex space-x-1">
             {navigation.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
-                className="px-6 py-3 rounded-apple font-medium transition-all duration-300 hover:bg-neutral-100 hover:text-neutral-900 text-neutral-600"
+                className="px-4 py-3 rounded-apple font-semibold text-base transition-all duration-300 hover:bg-neutral-100 hover:text-neutral-900 text-neutral-700"
               >
                 {item.name}
               </Link>
@@ -43,7 +43,7 @@ export default function Navigation() {
             <LanguageSwitcher />
             <Link
               href="#contact"
-              className="bg-neutral-700 text-white hover:bg-neutral-600 font-medium py-3 px-6 rounded-apple transition-colors duration-200 border border-neutral-600"
+              className="bg-neutral-700 text-white hover:bg-neutral-600 font-semibold py-3 px-6 rounded-apple transition-colors duration-200 border border-neutral-600 text-base"
             >
               {t('nav.getQuote')}
             </Link>
