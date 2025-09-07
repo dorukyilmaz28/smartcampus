@@ -208,13 +208,13 @@
         "message": "Share details about your project..."
       },
       "services": [
-        "Smart Campus Consulting",
-        "Digital Collaboration Solutions",
-        "IoT and Sensor Systems",
+        "Smart Campus",
+        "5G Coverage and Usecase",
         "Smart Building Management",
+        "Smart Office Solutions",
+        "Smart Classroom Solutions",
         "Energy Management and Sustainability",
-        "Security and Access Control",
-        "Project Management and Integration"
+        "Other"
       ],
       "submit": "Request Quote",
       "submitting": "Sending...",

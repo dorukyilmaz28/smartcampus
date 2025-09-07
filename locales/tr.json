@@ -208,13 +208,13 @@
         "message": "Projeniz hakkında detayları paylaşın..."
       },
       "services": [
-        "Akıllı Kampüs Danışmanlığı",
-        "Dijital İş Birliği Çözümleri",
-        "IoT ve Sensör Sistemleri",
+        "Akıllı Kampüs",
+        "5G Kapsama ve Usecase",
         "Akıllı Bina Yönetimi",
+        "Akıllı Ofis Çözümleri",
+        "Akıllı Sınıf Çözümleri",
         "Enerji Yönetimi ve Sürdürülebilirlik",
-        "Güvenlik ve Erişim Kontrolü",
-        "Proje Yönetimi ve Entegrasyon"
+        "Diğer"
       ],
       "submit": "Teklif Talep Et",
       "submitting": "Gönderiliyor...",
